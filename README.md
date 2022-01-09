@@ -1,5 +1,5 @@
 # Shopping_Cart-
-DSA based project, backend for shopping cart using C++, OOPS concepts 
+DSA based mini project, backend for shopping cart using C++, OOPS concepts 
 
 
 ![image](https://user-images.githubusercontent.com/73429092/148669234-bcaca5e1-fc5b-4a3a-bba4-1b129cc45be4.png)
